@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.307,=C:\Users\WorkSC\Desktop\XML\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.606,=C:\Users\WorkSC\Desktop\XML\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.376,=C:\Users\WorkSC\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,C:\Users\WorkSC\Desktop\XML\R_FM.dfm=C:\Users\WorkSC\Desktop\XML\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.877,C:\Users\WorkSC\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\WorkSC\Desktop\XML\P_XML.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Users\WorkSC\Desktop\XML\Unit1.pas=C:\Users\WorkSC\Desktop\XML\Mass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\WorkSC\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\WorkSC\Desktop\XML\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,D:\YandexDisk\РАБОТА\Биологии\XML\Metod_unit.dfm=D:\YandexDisk\РАБОТА\Биологии\XML\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Users\WorkSC\Desktop\XML\Unit1.dfm=C:\Users\WorkSC\Desktop\XML\Mass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.902,=D:\YandexDisk\РАБОТА\Биологии\XML\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.236,C:\Users\WorkSC\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\WorkSC\Desktop\XML\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.491,D:\YandexDisk\РАБОТА\Биологии\XML\Metod_unit.pas=D:\YandexDisk\РАБОТА\Биологии\XML\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,C:\Users\WorkSC\Desktop\XML\R_FM.pas=C:\Users\WorkSC\Desktop\XML\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
